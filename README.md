@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+Working on building projects excites me. 
+Come along to see what I create.🔥
 <!--
 **ateenX/ateenX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
